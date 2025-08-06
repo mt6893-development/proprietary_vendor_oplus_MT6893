@@ -479,6 +479,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libem_support_jni \
+    libshowlogo \
     AV1SecureVdecCA \
     AVCSecureVdecCA \
     HEVCSecureVdecCA \
@@ -1082,7 +1083,7 @@ PRODUCT_PACKAGES += \
     libmtk_vt_service \
     libmtk_vt_wrapper \
     libsignal \
-    libsink \
+    libsink-mtk \
     libsource \
     libvcodec_cap \
     libvcodec_capenc \
